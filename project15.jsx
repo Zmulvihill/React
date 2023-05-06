@@ -1,3 +1,4 @@
+//Pass an Array as Props
 const List = (props) => {
     { /* Change code below this line */ }
     return <p>{props.tasks.join(", ")}</p>;
